@@ -40,7 +40,7 @@ python calculator.py
 ```
 - & ignore if any warning shows up unless it conflicts with the program behaviour.
 
-or Double Click calculator.exe
+- or Double Click calculator.exe
 
 
 
