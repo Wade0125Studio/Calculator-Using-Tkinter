@@ -10,8 +10,10 @@ Py-Calculator is a GUI calculator application with all the basic functionalities
 It can run on any system running Python 3 or above and having tkinter library.
 
 _Snap of the program running in linux & windows environment:_
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Calculator-Using-Tkinter/blob/main/DEMO.PNG">
+</div>
 
-[![](https://i.ibb.co/cCgp7Bg/ezgif.gif)](#py-calculator)  [![](https://i.ibb.co/NThwNNt/Screenshot-76.png)](#py-calculator)
 ## Features 
 
 - Light weight
@@ -34,17 +36,13 @@ As mentioned above, python version 3 is required to run this program.
 - First navigate to the 'Py-Calculator' folder.
 - Then run he following command:
 ```sh
-python3 calculator.py
+python calculator.py
 ```
 - & ignore if any warning shows up unless it conflicts with the program behaviour.
 
-## Note
->The button padding in the code behaves differently on different OS, so please calibrate them according to the gui of the application by changing the ‘_**padx**_’ & ‘_**pady**_’ values after running on your system.
+or Double Click calculator.exe
 
->& if the app icon doesnot shows up then change the followng path to the location of the icon.png file in your drive.
-```py
-photo = tk.PhotoImage(file = "<full path of the icon.png file in the res folder>")
-```
+
 
 ## License
 
